@@ -1,0 +1,20 @@
+{
+  "name": "vpn-docs",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:clean": "node -e \"fs.rmSync('.vitepress/dist',{recursive:true,force:true});console.log('dist cleaned')\"",
+    "docs:build": "node -e \"fs.rmSync('.vitepress/dist',{recursive:true,force:true})\" && vitepress build",
+    "docs:preview": "vitepress preview",
+    "docs:generate-token": "node -e \"const{randomBytes:r}=crypto;const t=r(16).toString('hex');fs.writeFileSync('.env','DOCS_SECRET_TOKEN='+t+'\\n');console.log('Token generated: '+t)\""
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.2",
+    "vitepress": "1.6.4",
+    "vue": "3.5.32"
+  },
+  "dependencies": {
+    "medium-zoom": "^1.1.0"
+  }
+}
