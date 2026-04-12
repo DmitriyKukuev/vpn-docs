@@ -13,12 +13,9 @@ features:
   - icon: 🌍
     title: Сервер
     details: Расположение сервера — Нидерланды
-  - icon: 📱
-    title: AmneziaVPN
-    details: Приложение для Android, Windows и macOS
-  - icon: 🍏
-    title: AmneziaWG
-    details: Приложение для iPhone и iPad
+  - icon: 🔐
+    title: AmneziaWG 2.0
+    details: Основной протокол подключения с современным профилем маскировки и стабильной работой на разных устройствах
   - icon: ⚡
     title: Xray
     details: Протокол VLESS+Reality+XHTTP, поддержка в разработке
