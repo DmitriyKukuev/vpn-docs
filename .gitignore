@@ -13,6 +13,7 @@
 /.vitepress/cache
 /.vitepress/dist
 
+.codex
 .agents
 .ai-factory
 .ai-factory.json
