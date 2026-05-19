@@ -8,6 +8,9 @@ hero:
     - theme: brand
       text: Подключиться — AmneziaVPN
       link: /guide/amneziavpn
+    - theme: alt
+      text: Подключиться — Xray
+      link: /guide/xray
 
 features:
   - icon: 🌍
@@ -18,5 +21,5 @@ features:
     details: Основной протокол подключения с современным профилем маскировки и стабильной работой на разных устройствах
   - icon: ⚡
     title: Xray
-    details: Протокол VLESS+Reality+XHTTP, поддержка в разработке
+    details: Протокол VLESS с маскировкой Reality и транспортом XHTTP
 ---
