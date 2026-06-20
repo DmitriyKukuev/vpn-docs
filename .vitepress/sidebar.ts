@@ -2,6 +2,7 @@ import type { DefaultTheme } from 'vitepress'
 
 export const sidebar: DefaultTheme.Sidebar = {
   '/guide/': [
+    { text: 'Happ (Xray)', link: '/guide/xray' },
     {
       text: 'AmneziaVPN',
       collapsed: false,
@@ -10,6 +11,5 @@ export const sidebar: DefaultTheme.Sidebar = {
         { text: 'Подключение через файл конфигурации', link: '/guide/amneziavpn' },
       ],
     },
-    { text: 'Xray', link: '/guide/xray' },
   ],
 }
