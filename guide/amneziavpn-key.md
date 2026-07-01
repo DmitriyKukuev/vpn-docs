@@ -8,9 +8,9 @@ title: Подключение AmneziaVPN по текстовому ключу
 
 Выберите вашу платформу:
 
-- [Android — Google Play](https://play.google.com/store/apps/details?id=org.amnezia.vpn&utm_source=amnezia.org&utm_campaign=organic&utm_medium=referral)
-- [Windows — GitHub Releases](https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.14.5/AmneziaVPN_4.8.14.5_x64.exe)
-- [macOS — GitHub Releases](https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.14.5/AmneziaVPN_4.8.14.5_macos.pkg)
+- [Android — Google Play](https://play.google.com/store/apps/details?id=org.amnezia.vpn)
+- [Windows — GitHub Releases](https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.19.0/AmneziaVPN_4.8.19.0_x64.exe)
+- [macOS — GitHub Releases](https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.19.0/AmneziaVPN_4.8.19.0_macos.pkg)
 - [iOS — App Store](https://apps.apple.com/ru/app/defaultvpn/id6744725017)
 
 ## 2. Скопировать ключ

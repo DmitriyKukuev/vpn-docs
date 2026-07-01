@@ -12,7 +12,7 @@ title: Подключение через Happ (Xray)
 
 Выберите вашу платформу:
 
-- [iOS — App Store](https://apps.apple.com/ru/app/happ-proxy-utility-plus/id6746188973)
+- [iOS — App Store](https://apps.apple.com/ru/app/happ-proxy-utility/id6783623643)
 - [Android — Google Play](https://play.google.com/store/apps/details?id=com.happproxy)
 - [Windows — GitHub Releases](https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x64.exe)
 - [macOS — GitHub Releases](https://github.com/Happ-proxy/happ-desktop/releases/latest/download/Happ.macOS.universal.dmg)
