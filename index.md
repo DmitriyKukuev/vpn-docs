@@ -10,7 +10,7 @@ hero:
       link: /guide/xray
     - theme: alt
       text: Подключиться — AmneziaVPN
-      link: /guide/amneziavpn
+      link: /guide/amneziavpn-key
 
 features:
   - icon: 🌍
@@ -21,5 +21,5 @@ features:
     details: Основное приложение для подключения через протокол VLESS
   - icon: 🔐
     title: AmneziaWG 2.0
-    details: Альтернативный способ подключения с современным профилем маскировки и стабильной работой на разных устройствах
+    details: Альтернативный способ подключения
 ---
